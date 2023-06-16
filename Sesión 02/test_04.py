@@ -1,4 +1,4 @@
-"""Operadores arítmeticos"""
+"""Operadores arítmeticos suma"""
 suma_1 = 50 + 100
 suma_2 = "Hola" + str(1000)
 suma_3 = 2.0 + 40.5
