@@ -4,7 +4,7 @@ var_2 = 3600
 var_3 = 40.90
 var_4 = "900"
 
-# suma = var_1 + var_2
+suma = var_1 + var_2
 print(suma)
 
 conversion = int(var_1)

@@ -1,0 +1,4 @@
+@ Caracteristicas de Python
+@ Lenguaje multiplataforma
+@ Basodo en POO
+@ Lenguaje intuitivo
